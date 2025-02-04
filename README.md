@@ -1,5 +1,6 @@
-Olá, eu sou Daniel Sakay. Sou cientista da Computação com foco em Full-Stack. 
-Atualmente faço Free lance.
+Sou Cientista da Computação com experiência em desenvolvimento web, atuando tanto no back-end quanto no front-end, o que me torna um verdadeiro full-stack. Com um perfil criativo, curioso e resiliente, busco sempre aprimorar minhas habilidades e aplico os conceitos que aprendo no meu dia a dia.
+
+No desenvolvimento, utilizo ferramentas como Visual Studio Code para programação, Figma para design e React como a principal linguagem para a construção de sites e aplicações. Meu objetivo é criar soluções inovadoras e eficientes, que tragam valor real para os usuários e empresas.
 
 <a href="https://twitter.com/Trekhleb" title="Follow me on Twitter">
   <img
