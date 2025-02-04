@@ -1,13 +1,5 @@
 Olá, eu sou Daniel Sakay. Sou cientista da Computação com foco em Full-Stack. 
-Most of my open-source 🚀 [projects](https://trekhleb.dev/projects/) below 👇🏻 are focused on one thing -  **to help people learn** 📚. You may use these projects to learn about _algorithms in JavaScript_ and get prepared for _technical interviews_, or to learn _Python_ syntax and start experimenting with _machine learning algorithms_ and the math behind them, etc.
-
-There are also [other projects](https://trekhleb.dev/projects/) that I've developed for fun but that you might find useful, like ✍🏻 [okso.app](https://okso.app/) online drawing app.
-
-I also write 📝 [articles](https://trekhleb.dev/blog/) about life, web development and machine learning.
-
-### Getting in touch
-
-[trekhleb.dev](https://trekhleb.dev)
+Atualmente faço Free lance.
 
 <a href="https://twitter.com/Trekhleb" title="Follow me on Twitter">
   <img
